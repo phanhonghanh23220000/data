@@ -1,0 +1,99 @@
+StoreID,StoreName,Address,City,StateID
+ST01,ABC Manufacturing ,123 Main Street,New York City,3
+ST02,ABC Manufacturing ,456 Elm Avenue,Los Angeles,1
+ST03,ABC Manufacturing ,789 Oak Boulevard,Chicago,5
+ST04,ABC Manufacturing ,1000 Pine Drive,Houston,12
+ST05,ABC Manufacturing ,123 Maple Street,Phoenix,14
+ST06,ABC Manufacturing ,789 Elm Boulevard,San Antonio,19
+ST07,ABC Manufacturing ,789 Elm Boulevard,San Antonio,19
+ST08,ABC Manufacturing ,1000 Pine Drive,San Diego,1
+ST09,ABC Manufacturing ,456 Elm Avenue,San Jose,1
+ST10,ABC Manufacturing ,456 Elm Avenue,San Jose,1
+ST11,ABC Manufacturing ,789 Oak Boulevard,Austin,2
+ST12,ABC Manufacturing ,1000 Pine Drive,Jacksonville,4
+ST13,ABC Manufacturing ,123 Maple Street,San Francisco,1
+ST14,ABC Manufacturing ,456 Oak Avenue,Columbus,7
+ST15,ABC Manufacturing ,789 Elm Boulevard,Fort Worth,12
+ST16,ABC Manufacturing ,1000 Pine Drive,Charlotte,8
+ST17,ABC Manufacturing ,123 Main Street,Seattle,13
+ST18,ABC Manufacturing ,456 Elm Avenue,Denver,21
+ST19,ABC Manufacturing ,789 Oak Boulevard,Washington D.C.,11
+ST20,ABC Manufacturing ,123 Maple Street,Indianapolis,17
+ST21,ABC Manufacturing ,123 Maple Street,Nashville,16
+ST22,ABC Manufacturing ,456 Oak Avenue,Detroit,10
+ST23,ABC Manufacturing ,789 Elm Boulevard,Memphis,8
+ST24,ABC Manufacturing ,1000 Pine Drive,Portland,27
+ST25,ABC Manufacturing ,123 Main Street,Orlando,4
+ST26,ABC Manufacturing ,456 Elm Avenue,Oklahoma City,28
+ST27,ABC Manufacturing ,789 Oak Boulevard,Las Vegas,32
+ST28,ABC Manufacturing ,1000 Pine Drive,Milwaukee,20
+ST29,ABC Manufacturing ,123 Maple Street,Albuquerque,36
+ST30,ABC Manufacturing ,456 Oak Avenue,Tucson,14
+ST31,ABC Manufacturing ,789 Elm Boulevard,Fresno,9
+ST32,ABC Manufacturing ,1000 Pine Drive,Sacramento,15
+ST33,ABC Manufacturing ,123 Main Street,Long Beach,15
+ST34,ABC Manufacturing ,456 Elm Avenue,Oakland,16
+ST35,ABC Manufacturing ,789 Oak Boulevard,Santa Ana,1
+ST36,ABC Manufacturing ,1000 Pine Drive,Riverside,1
+ST37,ABC Manufacturing ,123 Maple Street,Stockton,17
+ST38,ABC Manufacturing ,456 Oak Avenue,Chula Vista,20
+ST39,ABC Manufacturing ,789 Elm Boulevard,Irvine,1
+ST40,ABC Manufacturing ,1000 Pine Drive,San Bernardino,1
+ST41,ABC Manufacturing ,123 Main Street,Tallahassee,24
+ST42,ABC Manufacturing ,456 Elm Avenue,Cape Coral,24
+ST43,ABC Manufacturing ,789 Oak Boulevard,Port St. Lucie,24
+ST44,ABC Manufacturing ,1000 Pine Drive,Fort Lauderdale,24
+ST45,ABC Manufacturing ,123 Maple Street,Pembroke Pines,24
+ST46,ABC Manufacturing ,456 Oak Avenue,Hollywood,24
+ST47,ABC Manufacturing ,789 Elm Boulevard,Miramar,24
+ST48,ABC Manufacturing ,1000 Pine Drive,Coral Springs,24
+ST49,ABC Manufacturing ,123 Main Street,Honolulu,40
+ST50,ABC Manufacturing ,456 Elm Avenue,Des Moines,31
+ST51,ABC Manufacturing ,123 Main Street,Cedar Rapids,31
+ST52,ABC Manufacturing ,456 Elm Avenue,Davenport,41
+ST53,ABC Manufacturing ,789 Oak Boulevard,Sioux City,41
+ST54,ABC Manufacturing ,1000 Pine Drive,Iowa City,42
+ST55,ABC Manufacturing ,123 Maple Street,Waterloo,43
+ST56,ABC Manufacturing ,789 Elm Boulevard,Ames,44
+ST57,ABC Manufacturing ,789 Elm Boulevard,West Des Moines,45
+ST58,ABC Manufacturing ,1000 Pine Drive,Ankeny,31
+ST59,ABC Manufacturing ,456 Elm Avenue,Urbandale,31
+ST60,ABC Manufacturing ,456 Elm Avenue,Cedar Falls,31
+ST61,ABC Manufacturing ,789 Oak Boulevard,Council Bluffs,31
+ST62,ABC Manufacturing ,1000 Pine Drive,Dubuque,31
+ST63,ABC Manufacturing ,123 Maple Street,Dubuque,35
+ST64,ABC Manufacturing ,456 Oak Avenue,Marion,31
+ST65,ABC Manufacturing ,789 Elm Boulevard,Bettendorf,35
+ST66,ABC Manufacturing ,1000 Pine Drive,Mason City,31
+ST67,ABC Manufacturing ,123 Main Street,Clinton,31
+ST68,ABC Manufacturing ,456 Elm Avenue,Ankeny,31
+ST69,ABC Manufacturing ,789 Oak Boulevard,Ottumwa,31
+ST70,ABC Manufacturing ,123 Maple Street,Decorah,31
+ST71,ABC Manufacturing ,123 Maple Street,Johnston,35
+ST72,ABC Manufacturing ,456 Oak Avenue,Urbandale,31
+ST73,ABC Manufacturing ,789 Elm Boulevard,Newton,35
+ST74,ABC Manufacturing ,1000 Pine Drive,Grinnell,31
+ST75,ABC Manufacturing ,123 Main Street,Indianola,31
+ST76,ABC Manufacturing ,456 Elm Avenue,Indianola,31
+ST77,ABC Manufacturing ,789 Oak Boulevard,Mason City,31
+ST78,ABC Manufacturing ,1000 Pine Drive,Fairfield,31
+ST79,ABC Manufacturing ,123 Maple Street,Fort Dodge,31
+ST80,ABC Manufacturing ,456 Oak Avenue,Oskaloosa,31
+ST81,ABC Manufacturing ,789 Elm Boulevard,Mount Pleasant,31
+ST82,ABC Manufacturing ,1000 Pine Drive,Burlington,31
+ST83,ABC Manufacturing ,123 Main Street,Marshalltown,34
+ST84,ABC Manufacturing ,456 Elm Avenue,Boone,35
+ST85,ABC Manufacturing ,789 Oak Boulevard,Ottumwa,31
+ST86,ABC Manufacturing ,1000 Pine Drive,Spencer,34
+ST87,ABC Manufacturing ,123 Maple Street,Waukee,31
+ST88,ABC Manufacturing ,456 Oak Avenue,Le Mars,29
+ST89,ABC Manufacturing ,1000 Pine Drive,Atlantic,29
+ST90,ABC Manufacturing ,123 Main Street,Storm Lake,29
+ST91,ABC Manufacturing ,456 Elm Avenue,Mount Pleasant,30
+ST92,ABC Manufacturing ,789 Oak Boulevard,Estherville,30
+ST93,ABC Manufacturing ,1000 Pine Drive,Red Oak,32
+ST94,ABC Manufacturing ,123 Maple Street,Washington,32
+ST95,ABC Manufacturing ,456 Oak Avenue,Clarinda,33
+ST96,ABC Manufacturing ,789 Elm Boulevard,Fairfield,34
+ST97,ABC Manufacturing ,1000 Pine Drive,Knoxville,34
+ST98,ABC Manufacturing ,123 Main Street,Boone,31

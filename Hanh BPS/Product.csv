@@ -1,0 +1,51 @@
+ProductID,ProductName,Description,Category,UnitCost,UnitPrice
+101,Smart TV,4K Ultra HD Smart LED TV,Television,500,800
+102,Smartphone,Latest Model Smartphone,Mobile,300,600
+103,Laptop,High-Performance Laptop,Computer,700,1200
+104,Tablet,Lightweight Tablet,Mobile,200,400
+105,Smartwatch,Fitness Tracking Smartwatch,Wearable,150,300
+106,Headphones,Noise-Canceling Bluetooth Headphones,Audio,100,200
+107,Camera,DSLR Camera with Lens Kit,Photography,800,1200
+108,Gaming Console,Next-Gen Gaming Console,Gaming,400,600
+109,Drone,High-Quality Aerial Drone,Gadgets,300,600
+110,Fitness Tracker,Activity Tracker with Heart Rate Monitor,Wearable,80,150
+111,Desktop Computer,Powerful Desktop Computer,Computer,1000,1500
+112,Wireless Speaker,Portable Bluetooth Speaker,Audio,50,100
+113,E-reader,E-Ink Display E-reader,Reading,120,250
+114,Portable Charger,High-Capacity Power Bank,Accessories,30,60
+115,Smart Home Hub,Centralized Smart Home Control Hub,Smart Home,150,300
+116,VR Headset,Virtual Reality Headset,Gaming,300,500
+117,External Hard Drive,Portable External Hard Drive,Accessories,80,150
+118,Bluetooth Earbuds,True Wireless Bluetooth Earbuds,Audio,60,120
+119,Action Camera,Waterproof Action Camera,Photography,200,400
+120,Portable Projector,Mini Portable Projector,Accessories,150,300
+121,Wireless Mouse,Ergonomic Wireless Mouse,Accessories,20,40
+122,Dash Cam,Full HD Dash Cam,Automotive,100,200
+123,Gaming Keyboard,Mechanical Gaming Keyboard,Gaming,80,150
+124,Wireless Router,Dual-Band Wireless Router,Networking,80,150
+125,Compact Digital Camera,Compact Digital Camera,Photography,150,300
+126,Portable Bluetooth Keyboard,Foldable Bluetooth Keyboard,Accessories,40,80
+127,Home Security Camera,Indoor/Outdoor Security Camera,Smart Home,100,200
+128,USB-C Docking Station,Multiport USB-C Docking Station,Accessories,80,150
+129,Gaming Mouse,High-Precision Gaming Mouse,Gaming,60,120
+130,Wireless Charging Pad,Qi Wireless Charging Pad,Accessories,30,60
+131,Fitness Smart Scale,Bluetooth Fitness Smart Scale,Health,50,100
+132,Noise-Canceling Earbuds,Wireless Noise-Canceling Earbuds,Audio,100,200
+133,Mini Drone,Pocket-Sized Mini Drone,Gadgets,50,100
+134,Portable SSD,External Portable SSD,Accessories,100,200
+135,Smart Doorbell,Video Doorbell with Two-Way Audio,Smart Home,150,300
+136,Mechanical Keyboard,RGB Backlit Mechanical Keyboard,Accessories,80,150
+137,USB-C Charging Cable,USB-C Fast Charging Cable,Accessories,20,40
+138,Gaming Headset,Surround Sound Gaming Headset,Gaming,80,150
+139,Smart Plug,Wi-Fi Smart Plug,Smart Home,20,40
+140,Fitness Smartwatch,GPS Fitness Smartwatch,Wearable,150,300
+141,Power Strip,Surge Protector Power Strip,Accessories,30,60
+142,Wireless Gaming Controller,Bluetooth Gaming Controller,Gaming,60,120
+143,USB-C Hub,Multiport USB-C Hub,Accessories,40,80
+144,Sleep Headphones,Wireless Bluetooth Sleep Headphones,Audio,100,200
+145,Car Phone Mount,Universal Car Phone Mount,Automotive,20,40
+146,RGB Gaming Mouse,RGB LED Gaming Mouse,Gaming,40,80
+147,Laptop Stand,Ergonomic Laptop Stand,Accessories,20,40
+148,WiFi Range Extender,Dual-Band WiFi Range Extender,Networking,50,100
+149,Bluetooth FM Transmitter,Car Bluetooth FM Transmitter,Automotive,30,60
+150,Wireless Charging Stand,Qi Wireless Charging Stand,Accessories,40,80
